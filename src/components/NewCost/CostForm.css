@@ -1,0 +1,25 @@
+.new-cost__controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.new-cost__control label {
+  font-weight: bold;
+  margin-bottom: 5px;
+  display: block;
+}
+
+.new-cost__control input {
+  padding: 5px;
+  border: 1px solid brown;
+  width: 200px;
+  max-width: 90%;
+  border-radius: 5px;
+}
+
+.new-cost__actions {
+  text-align: left;
+}
